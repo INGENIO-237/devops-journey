@@ -1,0 +1,13 @@
+{
+  "rsync": {
+    "/vagrant": {
+      "type": "rsync",
+      "guestpath": "/vagrant",
+      "hostpath": "C:/Users/ingen/Desktop/DevOps/vagrant/centos",
+      "disabled": false,
+      "__vagrantfile": true,
+      "owner": "vagrant",
+      "group": "vagrant"
+    }
+  }
+}
